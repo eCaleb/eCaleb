@@ -1,6 +1,6 @@
 Hi there! 👋 I'm Caleb.
 
-👨‍💻 Mobile App Developer | Flutter Specialist | Dart Programmer | IT Hardware Support
+👨‍💻 Mobile App Developer | Flutter Specialist | Dart Programmer | Restful APIs | IT Hardware Support
 
 Welcome to my GitHub! I’m a passionate developer with a focus on mobile application development using Flutter and Dart. I bring experience in software development, offering a unique blend of technical expertise.
 
