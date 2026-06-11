@@ -10,7 +10,7 @@ I build security tools for mobile applications. Currently developing the [Flutte
 
 ## Background
 
-I come from a mobile development background (Dart, Flutter, Firebase) and I'm now applying that knowledge to application security. My MSc Cybersecurity at the University of Chester focuses on bridging the gap between development and security — understanding how apps are built in order to find where they break.
+I come from a mobile development background (Dart, Flutter, Firebase) and I'm now applying that knowledge to application security. My MSc Cybersecurity at the University of Chester focuses on bridging the gap between development and security - understanding how apps are built in order to find where they break.
 
 ## Skills
 
