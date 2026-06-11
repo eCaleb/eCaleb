@@ -2,7 +2,7 @@
 
 Application Security Engineer | MSc Cybersecurity Student | Flutter/Dart Security Tooling
 
-I build security tools for mobile applications. Currently developing the [Flutter Security Scanner](https://github.com/eCaleb/flutter-security-analyser), an open source SAST tool that scans Dart/Flutter source code for vulnerabilities and maps findings to OWASP MASVS v2.1.0.
+I build security tools for mobile applications. Currently developing the [Flutter Security Scanner](https://github.com/eCaleb/flutter-security-analyzer), an open source SAST tool that scans Dart/Flutter source code for vulnerabilities and maps findings to OWASP MASVS v2.1.0.
 
 ## What I'm Working On
 
