@@ -1,26 +1,30 @@
 # Hi, I'm Caleb Elebhose
 
-Application Security Engineer | MSc Cybersecurity Student | Flutter/Dart Security Tooling
+Flutter/Dart developer and MSc Cybersecurity student at the University of Chester. I build mobile apps, and tools that find security problems in them.
 
-I build security tools for mobile applications. Currently developing the [Flutter Security Analyzer](https://github.com/eCaleb/flutter-security-analyzer), an open source SAST tool that scans Dart/Flutter source code for vulnerabilities and maps findings to OWASP MASVS v2.1.0.
+## Projects
 
-## What I'm Working On
+**[Flutter Security Analyzer](https://github.com/eCaleb/flutter-security-analyzer)**: an open source Python tool that scans Flutter apps for security issues and maps each finding to OWASP MASVS.
 
-- [Flutter Security Analyzer](https://github.com/eCaleb/flutter-security-scanner) — Python SAST tool with 26 detection patterns across all 8 MASVS categories, tested on 7 real Flutter apps with true positive rates between 85% and 100%. Includes a CI/CD pipeline (GitHub Actions + Docker) and a 34-pattern Dart/Flutter language whitelist for false positive prevention.
+- 26 detection rules across all 8 MASVS categories, each mapped to a CWE
+- 110 automated tests, run by GitHub Actions on Python 3.10 to 3.13
+- Published on PyPI, and as a GitHub Action that reports to GitHub code scanning in SARIF
+- Tested on six open source Flutter apps (about 384,000 lines), with all 618 findings reviewed by hand: false alarms fell by 89% (513 to 55) and valid findings rose from 14 to 27
 
-## Background
+**[Flash Chat](https://github.com/eCaleb/flash_chat)**: real-time group chat with Firebase, voice messages, image and PDF sharing, and English and Spanish support.
 
-I come from a mobile development background (Dart, Flutter, Firebase) and I'm now applying that knowledge to application security. My MSc Cybersecurity at the University of Chester focuses on bridging the gap between development and security - understanding how apps are built in order to find where they break.
+**[Bowen Student Portal](https://github.com/eCaleb/school)**: a Flutter prototype of a university portal with course registration, fees, e-learning and hostel booking, plus an end-to-end login test.
+
+**[Smart Home Controller](https://github.com/eCaleb/my_http_project)**: a Flutter app that controls simulated IoT devices in Cisco Packet Tracer, with Firebase sign-in and a Python (Flask) bridge.
 
 ## Skills
 
-Security: SAST, Threat Modelling, Vulnerability Assessment, OWASP MASVS, Secure Code Review, Reverse Engineering (Ghidra), Malware Analysis
+- **Mobile:** Flutter, Dart, Firebase (Auth, Firestore), Provider, Riverpod, Bloc, GoRouter, REST APIs
+- **Security:** SAST, secure code review, OWASP MASVS and Mobile Top 10, threat modelling, MobSF, Burp Suite, Ghidra
+- **Tooling:** Python, GitHub Actions, Docker, PyPI, Git
+- **Certification:** CompTIA Security+ (SY0-701)
 
-Development: Python, Dart, Flutter, Firebase, CI/CD (GitHub Actions, Docker), Regex Pattern Engineering
-
-Certifications: CompTIA Security+ (SY0-701), Cisco Introduction to Cybersecurity
-
-## Get in Touch
+## Contact
 
 - Email: elebhosec@gmail.com
 - LinkedIn: [linkedin.com/in/caleb-elebhose](https://www.linkedin.com/in/caleb-elebhose/)
